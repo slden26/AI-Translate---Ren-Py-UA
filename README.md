@@ -9,10 +9,10 @@
 - **Автоматичні налаштування:** Всі дані (API ключ, URL, моделі, шляхи) зберігаються у `settings.ini`.
 - **Зручний інтерфейс:** Лаконічне вікно з фіксованим розміром.
 
-###Зображення версій 1.0 і 1.1
+### Зображення версій 1.0 і 1.1
 <p align="center"><img src="https://github.com/user-attachments/assets/c6a7849c-f08e-43eb-aee7-94eba93ff497" width="" alt=""></p>  
 
-###Зображення версії 1.2
+### Зображення версії 1.2
 <p align="center"><img src="https://github.com/user-attachments/assets/d2d8fc78-764f-48ca-b034-08503e726e10" width="" alt=""></p>  
 
 
